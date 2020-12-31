@@ -19,3 +19,13 @@ while true; do
   echo "$str"
   sleep 0.1
 done
+
+
+# lmao if u are looking at the code u the real G
+# Author: github.com/manavendrasen
+
+# now try out
+# curl https://raw.githubusercontent.com/beastboicodes/hny/main/susfile.sh | bash
+# dependencies - toilet
+# install using - sudo apt install toilet
+# for non debian users, idk figure it out lol
